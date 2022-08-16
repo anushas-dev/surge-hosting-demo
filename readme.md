@@ -1,5 +1,5 @@
 ## FREE HOSTING BY SURGE ##
-Refer the offical (documentation)[https://surge.sh/help/getting-started-with-surge]
+Refer the offical [documentation](https://surge.sh/help/getting-started-with-surge)
 
 ### Pre-requisites ###
 - Node.js
@@ -8,4 +8,4 @@ Refer the offical (documentation)[https://surge.sh/help/getting-started-with-sur
 - Run surge from within any directory you want to publish
 
 
-Visit this project on (Surge)[https://overconfident-mountain.surge.sh/]
+Visit this project on [Surge](https://overconfident-mountain.surge.sh/)
